@@ -1,2 +1,2 @@
-# Company_Logos
+# Logos
 Its showcases logos of different companies and brands using HTML and CSS
